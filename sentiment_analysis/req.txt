@@ -1,0 +1,11 @@
+tensorflow==2.2.0
+pandas
+sklearn
+wget
+unidecode
+beautifulsoup4
+spacy
+gensim
+language-check
+pycontractions
+python3 -m spacy download en_core_web_md
